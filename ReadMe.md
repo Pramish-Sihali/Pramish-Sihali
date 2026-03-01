@@ -72,27 +72,6 @@ Currently working across **InvestInfra** and **Aadhyanta**, developing financial
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pramish-Sihali&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramish-Sihali&layout=compact&theme=radical" alt="Top Languages" height="165">
-</div>
 
----
-
-## 📫 Let's Connect!
-
-I'm actively seeking **remote opportunities** in fintech, AI-integrated products, or innovative web applications.
-
-- 📧 Email: [pramishsihali21@gmail.com](mailto:pramishsihali21@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/pramish21](https://linkedin.com/in/pramish21)
-- 🌐 Portfolio: *(Coming Soon)*
-
----
-
-<div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Pramish-Sihali&color=brightgreen)
-</div>
